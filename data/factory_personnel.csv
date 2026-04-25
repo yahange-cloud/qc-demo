@@ -1,0 +1,27 @@
+factory_id,factory_name,region,city,capability,quality_rating,inspector_id,inspector_name,inspector_region,max_inspections_per_day,available_days
+FAC-CAYI-CN,CAYI China,China,Wuyi,Welding/Vacuum/Assembly,92.5,INS-001,Zhang Wei,East China,2,Mon-Fri
+FAC-CAYI-CN,CAYI China,China,Wuyi,Welding/Vacuum/Assembly,92.5,INS-002,Li Fang,East China,2,Mon-Fri
+FAC-CAYI-CN,CAYI China,China,Wuyi,Welding/Vacuum/Assembly,92.5,INS-003,Wang Jun,South China,2,Mon-Fri
+FAC-CAYI-CN,CAYI China,China,Wuyi,Welding/Vacuum/Assembly,92.5,INS-007,Chen Ming,East China,2,Mon-Fri
+FAC-CAYI-VN,CAYI Vietnam,Vietnam,Ho Chi Minh,Welding/Assembly,88.0,INS-004,Nguyen Thi,Vietnam,2,Mon-Sat
+FAC-CAYI-VN,CAYI Vietnam,Vietnam,Ho Chi Minh,Welding/Assembly,88.0,INS-005,Tran Van,Vietnam,2,Mon-Sat
+FAC-ANSHENG,ANSHENG,China,Yongkang,Stamping/Welding/Vacuum,78.5,INS-001,Zhang Wei,East China,2,Mon-Fri
+FAC-ANSHENG,ANSHENG,China,Yongkang,Stamping/Welding/Vacuum,78.5,INS-002,Li Fang,East China,2,Mon-Fri
+FAC-ANSHENG,ANSHENG,China,Yongkang,Stamping/Welding/Vacuum,78.5,INS-003,Wang Jun,South China,2,Mon-Fri
+FAC-ANSHENG,ANSHENG,China,Yongkang,Stamping/Welding/Vacuum,78.5,INS-007,Chen Ming,East China,2,Mon-Fri
+FAC-GINT,GINT,China,Guangzhou,Welding/Coating/Assembly,95.0,INS-001,Zhang Wei,East China,2,Mon-Fri
+FAC-GINT,GINT,China,Guangzhou,Welding/Coating/Assembly,95.0,INS-002,Li Fang,East China,2,Mon-Fri
+FAC-GINT,GINT,China,Guangzhou,Welding/Coating/Assembly,95.0,INS-003,Wang Jun,South China,2,Mon-Fri
+FAC-GINT,GINT,China,Guangzhou,Welding/Coating/Assembly,95.0,INS-007,Chen Ming,East China,2,Mon-Fri
+FAC-HAERS,HAERS,China,Yongkang,Vacuum/Welding/Polishing,91.0,INS-001,Zhang Wei,East China,2,Mon-Fri
+FAC-HAERS,HAERS,China,Yongkang,Vacuum/Welding/Polishing,91.0,INS-002,Li Fang,East China,2,Mon-Fri
+FAC-HAERS,HAERS,China,Yongkang,Vacuum/Welding/Polishing,91.0,INS-003,Wang Jun,South China,2,Mon-Fri
+FAC-HAERS,HAERS,China,Yongkang,Vacuum/Welding/Polishing,91.0,INS-007,Chen Ming,East China,2,Mon-Fri
+FAC-LISI,LISI,Vietnam,Hanoi,Welding/Assembly/Packaging,73.0,INS-004,Nguyen Thi,Vietnam,2,Mon-Sat
+FAC-LISI,LISI,Vietnam,Hanoi,Welding/Assembly/Packaging,73.0,INS-005,Tran Van,Vietnam,2,Mon-Sat
+FAC-FLYCUP,FlyCup,India,Mumbai,Welding/Coating,82.0,INS-006,Raj Patel,India,3,Mon-Sat
+FAC-YKPHX,YKPHX,China,Yongkang,Vacuum/Welding/Assembly,89.5,INS-001,Zhang Wei,East China,2,Mon-Fri
+FAC-YKPHX,YKPHX,China,Yongkang,Vacuum/Welding/Assembly,89.5,INS-002,Li Fang,East China,2,Mon-Fri
+FAC-YKPHX,YKPHX,China,Yongkang,Vacuum/Welding/Assembly,89.5,INS-003,Wang Jun,South China,2,Mon-Fri
+FAC-YKPHX,YKPHX,China,Yongkang,Vacuum/Welding/Assembly,89.5,INS-007,Chen Ming,East China,2,Mon-Fri
+FAC-DLJM,DLJM,India,Delhi,Stamping/Welding,70.5,INS-006,Raj Patel,India,3,Mon-Sat

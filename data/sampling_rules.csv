@@ -1,0 +1,9 @@
+rule_id,aql_level,inspection_level,lot_size_min,lot_size_max,sample_size,critical_accept,major_accept,minor_accept,trigger_tightened,trigger_reduced
+RULE-001,Level II,Normal,2,8,2,0,0,0,2 consecutive fails,5 consecutive passes
+RULE-002,Level II,Normal,9,150,13,0,1,2,2 consecutive fails,5 consecutive passes
+RULE-003,Level II,Normal,151,1200,50,0,2,5,2 consecutive fails,5 consecutive passes
+RULE-004,Level II,Normal,1201,3200,80,0,3,7,2 consecutive fails,5 consecutive passes
+RULE-005,Level II,Normal,3201,10000,125,0,5,10,2 consecutive fails,5 consecutive passes
+RULE-006,Level II,Normal,10001,35000,200,0,7,14,2 consecutive fails,5 consecutive passes
+RULE-007,Level II,Tightened,1201,3200,125,0,2,5,N/A,5 consecutive passes
+RULE-008,Level II,Reduced,1201,3200,32,0,1,3,1 fail reverts to Normal,N/A
